@@ -4,15 +4,21 @@
 
 HELLO :smile: :thought_balloon:   
 
-:heart: **My Profile** :heart:
+:heart: **My Profile** :heart:  
 
-My Name is **Sirapich** **Sajan** 
-My Nickname is **Pookky** :pig: :girl:
-My Birthdate **26 February 1993**
-I'm   **21**  years old :birthday:
+My Name is **Sirapich** **Sajan**  
+
+My Nickname is **Pookky** :pig: :girl:  
+
+My Birthdate **26 February 1993**  
+I'm   **21**  years old :birthday:  
 
 
 
-I LOVE **TRAVEL** :partly_sunny: :ear_of_rice:
-I LOVE  **PHOTOGRAPHY** :camera:
-I LOVE **MUSIC** :notes:
+
+I LOVE **TRAVEL** :partly_sunny: :ear_of_rice:  
+
+I LOVE  **PHOTOGRAPHY** :camera:  
+
+I LOVE **MUSIC** :notes:  
+
